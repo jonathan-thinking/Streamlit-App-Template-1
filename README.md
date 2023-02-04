@@ -39,3 +39,14 @@ If you would like to contribute to this template, please feel free to submit a p
 
 ## Support
 For support or questions about this template, please open an issue in the repository.
+
+# Streamlit App Template
+
+This repository contains a template for creating Streamlit apps, with a main python file, a requirements document, a data folder for uploading data, a pages folder for other pages of the app, a gitignore file, a python file for UI settings, a Dockerfile for creating an image, and a docker-compose.yml file.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
